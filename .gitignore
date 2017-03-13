@@ -1,0 +1,7 @@
+build/
+dist/
+mozlogging.egg-info/
+venv/
+*.pyc
+*.swp
+*.egg
